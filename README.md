@@ -64,7 +64,6 @@ The X9 is currently a localized node. Phase II will introduce **Mesh Integration
 ⚠️ **STRICTLY PROPRIETARY & CONFIDENTIAL**
 This repository serves as a read-only portfolio exhibit. The source code, circuit schematics, FSM architecture, and sensor fusion algorithms contained within this project are strictly protected under dual-jurisdiction law (Republic of India & United States of America). 
 
-Copyright © Kartik Kumar. All Right Reserved
 *   **No Cloning:** You may not reproduce, compile, or manufacture this hardware.
 *   **No Derivation:** Reverse-engineering or idea extraction for academic or commercial use is strictly prohibited. 
 *   **All Rights Reserved © 2026 Kartik Kumar.**
