@@ -1,0 +1,43 @@
+# PROPRIETARY HARDWARE, SOFTWARE, AND INTELLECTUAL PROPERTY LICENSE AGREEMENT
+
+**PROJECT IDENTIFIER:** HASHIRA X9 (X9-PROT-2026-NAT)  
+**INTELLECTUAL PROPERTY OWNER:** Kartik Kumar  
+**JURISDICTION:** Republic of India & United States of America (Dual-Jurisdiction Enforcement)  
+
+THIS PROPRIETARY HARDWARE, SOFTWARE, AND INTELLECTUAL PROPERTY LICENSE AGREEMENT (the "Agreement") constitutes a legally binding and strictly enforced contract between you (whether an individual, corporation, or other legal entity, hereafter "User") and the exclusive copyright and intellectual property owner, **Kartik Kumar** (the "Owner"). 
+
+By viewing, accessing, downloading, analyzing, or possessing any code files, schematics, documentation, or physical manifestations related to HASHIRA X9 (the "Project"), you unconditionally accept and agree to be bound by the absolute restrictions set forth in this Agreement.
+
+---
+
+### ARTICLE I: SCOPE OF PROPRIETARY ASSETS
+This Agreement rigorously protects all tangible and intangible assets comprising the Project. Protected assets include, but are not limited to:
+1. **Software & OS Kernel:** The custom C++ Finite State Machine (FSM), multi-modal security logic (Wind, Mist, Serpent), event-driven interrupt protocols, and the non-blocking RFID anti-freeze algorithms.
+2. **Hardware Architecture:** Circuit schematics, sensor fusion routing logic (integrating MPU6050, MQ-2, DHT11, and perimeter defenses), and power delivery designs.
+3. **Acoustic & Digital Assets:** Proprietary polyphonic audio synthesizer sequences (including custom 170 BPM acoustic kernels) and Progmem I2C UI graphics.
+4. **Core Ideas & Features:** Unreleased design choices, quantum-ready hardware transition concepts, threat-detection thresholds, and proprietary integration strategies.
+
+### ARTICLE II: ZERO-TOLERANCE PROHIBITIONS
+The Project is provided exclusively for authorized viewing and evaluation. Unless explicitly granted via the Absolute Consent Mandate (Article III), the User is strictly and unequivocally prohibited from:
+* **Reproduction & Cloning:** Copying, compiling, manufacturing, or reproducing the OS code, hardware layouts, or schematics in any capacity.
+* **Redesign & Derivation:** Remaking, redesigning, reverse-engineering, decompiling, or creating derivative works based on the Project’s code, layouts, or feature sets.
+* **Idea Extraction:** Utilizing the underlying sensor fusion methodologies, code structures, or feature implementations to develop a competing, standalone, or academic product.
+* **Distribution & Transmission:** Distributing, sharing, hosting, selling, or transmitting any source code, documentation, or ideas to any third party, open-source repository (e.g., GitHub), or commercial manufacturer.
+* **Commercialization:** Monetizing, marketing, or deploying the Project for any private, public, academic, or commercial gain.
+
+### ARTICLE III: THE ABSOLUTE CONSENT MANDATE
+No exceptions to Article II exist. Any request for authorization to utilize, redesign, test, or distribute the Project must be approved in writing. **To be legally valid, any such authorization must bear the explicit, verifiable, and physically or digitally signed consent of Kartik Kumar.** Verbal agreements or implied permissions are legally void and constitute a breach of this Agreement.
+
+### ARTICLE IV: INTERNATIONAL PROTECTION & TRADE SECRETS
+The Owner aggressively protects their intellectual property rights to the maximum extent permitted by international treaty and dual-jurisdiction law. **Under the Berne Convention, copyright protection is automatic upon the creation of the work and does not require formal registrar filing to be legally enforceable.**
+* **Republic of India:** The software kernel, hardware layouts, and digital assets are fully protected under **The Copyright Act, 1957**, the **Semiconductor Integrated Circuits Layout-Design Act, 2000**, and **The Information Technology Act, 2000 (Sections 43 and 65)**.
+* **United States of America:** The Project is concurrently protected under the **United States Federal Copyright Act (17 U.S.C. § 101 et seq.)**. Furthermore, the proprietary sensor fusion logic and anti-freeze algorithms constitute highly guarded trade secrets, protected under the **Defend Trade Secrets Act of 2016 (18 U.S.C. § 1836 et seq.)**.
+
+### ARTICLE V: INJUNCTIVE RELIEF & DAMAGES
+In the event of unauthorized reproduction, derivation, or distribution, the Owner shall be entitled to immediate injunctive relief (including temporary restraining orders and permanent injunctions) across applicable international courts without the requirement to post bond. The User acknowledges that unauthorized use of the Project causes irreparable harm. The Owner reserves the right to pursue maximum statutory damages, actual damages, disgorgement of profits, and full recovery of attorney’s fees and legal costs in both Indian and US legal systems.
+
+### ARTICLE VI: GOVERNING LAW
+This Agreement shall be governed, construed, and enforced in accordance with the synchronized intellectual property laws of the Republic of India and the federal laws of the United States, without regard to conflicts of law principles. Any litigation arising from this Agreement shall be brought exclusively in the appropriate courts determined by the Owner to best enforce these rights.
+
+---
+**UNAUTHORIZED USE, REDESIGN, OR DISTRIBUTION IS A VIOLATION OF INTERNATIONAL LAW. ALL RIGHTS STRICTLY RESERVED.**
